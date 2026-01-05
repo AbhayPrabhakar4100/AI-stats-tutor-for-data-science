@@ -3,7 +3,7 @@ Built a Chatbot for my college to assist students to learn foundational stat con
 # Math Tutor App – AI-Powered Learning Assistant
 
 ## 📌 1. Project Overview
-The **Math Tutor App** is an AI-powered teaching assistant built to help students understand mathematical concepts through step-by-step explanations, worked examples, and interactive chat-based support.  
+The **STATS Tutor App** is an AI-powered teaching assistant built to help students understand mathematical concepts through step-by-step explanations, worked examples, and interactive chat-based support.  
 It integrates **React.js**, **FastAPI**, and **LLM-based reasoning**, deployed using **GitLab CI/CD**, following professor-approved project structure.
 
 ---
