@@ -1,6 +1,6 @@
 # AI-stats-tutor-for-data-science
 Built a Chatbot for my college to assist students to learn foundational stat concepts for data science
-# Math Tutor App – AI-Powered Learning Assistant
+# STATS Tutor App – AI-Powered Learning Assistant
 
 ## 📌 1. Project Overview
 The **STATS Tutor App** is an AI-powered teaching assistant built to help students understand mathematical concepts through step-by-step explanations, worked examples, and interactive chat-based support.  
